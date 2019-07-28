@@ -43,7 +43,7 @@ we just have to make some modifications to be well displayed in Internet explore
 
 The Slider read automatically the most expensive price of the prodcuts and put it in the max number after adding 10 (it means 10 euros), the minimum is also detected from the values of prices in the JSON file.
 
-Unfortunately, I can't see the meaning of the checkboxes anf the values mentioned on it, otherwise, it would be easy to add chckboxes to control the products shown on the table.
+Unfortunately, I can't see the meaning of the checkboxes anf the values mentioned on it, otherwise, it would be easy to add chckboxes to control the products shown on the table. 
 
 
 
