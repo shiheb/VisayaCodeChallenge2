@@ -188,13 +188,7 @@ $.ajax({
                     $("#items").append(record);
                 }
             });
-            var sel1 = document.getElementById('after');
-
-            sel1.addEventListener("click", function() {});
-            var sel2 = document.getElementById('before');
-
-            sel2.addEventListener("click", function() {});
-
+            
  //recuperate select options
             var sel = document.getElementById('scripts'); 
 //listen to the choice of the number of products per page
@@ -203,11 +197,13 @@ $.ajax({
 
                 maxPages = opt.value;
 
-                console.log(maxPages);
-
-                var nbrPages = Math.floor(totalPages / maxPages) + 1; //nombre de pages
-                console.log(totalPages);
-                console.log(nbrPages);
+            
+if (Number.isInteger(totalPages / maxPages)) {
+    var nbrPages = totalPages / maxPages;    //nombre de pages
+}
+else { var nbrPages = Math.floor(totalPages / maxPages) + 1;   } //nombre de pages
+              
+               
                 var e = document.getElementById("nbrpage");
                 e.innerHTML = maxPages;
                 var er = document.getElementById("dede");
@@ -239,9 +235,11 @@ $.ajax({
             // display value property of select list (from selected option)
 
 
-            var nbrPages = Math.floor(totalPages / maxPages) + 1; 
-               console.log(totalPages);
-                console.log(nbrPages);//nombre de pages
+        if (Number.isInteger(totalPages / maxPages)) {
+    var nbrPages = totalPages / maxPages;    //nombre de pages
+}
+else { var nbrPages = Math.floor(totalPages / maxPages) + 1;   }  
+               
             var e = document.getElementById("nbrpage");
             e.innerHTML = maxPages;
             var er = document.getElementById("dede");
