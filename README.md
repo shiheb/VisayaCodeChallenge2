@@ -3,7 +3,7 @@ Second cold assessment in Visaya Code Challenge
 
 
 #################################################################<br>
-## what we know
+## What we know
 
 Build a product listing based on data from the following endpoint: 
  
@@ -45,6 +45,13 @@ The Slider read automatically the most expensive price of the prodcuts and put i
 
 Unfortunately, I can't see the meaning of the checkboxes anf the values mentioned on it, otherwise, it would be easy to add chckboxes to control the products shown on the table. 
 
+############################################################################################# <br>
 
+The programm load all the prodcut and listen to the slider to filter them according to prices <br>
+it listens also to the select option button to put just a number of products in every page. <br>
+The list is displayed on a table on wich you can sort the products by score, price and alphabetic name of products.
+
+I wish it was exactly what I was supposed to do.
+Thank you for this opportunity to practice more and perform my skills.
 
 
