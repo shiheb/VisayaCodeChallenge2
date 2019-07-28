@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="the awesome home webpage of visaya ">
+    <meta name="og:title" property="og:title" content="the Awesome visaya website">
+    <meta name="robots" content="index, follow" />
+    <meta name="keywords" content="shore, follow" />
+    <title>Visaya Challenge!</title>
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
+    <!--<script src="//cdnjs.cloudflare.com/ajax/libs/less.js/3.9.0/less.min.js"></script>-->
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <!--<link rel="stylesheet" href="css/debug.css">-->
+</head>
+
+<body>
+    <script src="js/app.js"></script>
+    <h1 style="text-align:center;font-size: 3vw;">Slider</h1>
+    <div class="slidecontainer" id="test">
+        <input type="range" min="0" max="7600" value="7600" class="slider" id="myRange">
+        <p>Value: <span id="demo"></span></p>
+    </div>
+    <p>Choose number products per pages</p>
+    <select id="scripts">
+        <option value="volvo">---number products per pages---</option>
+        <option value="2" align="center">2</option>
+        <option value="3" align="center" >3</option>
+        <option value="4" align="center">4</option>
+        <option value="5" align="center" selected>5</option>
+    </select>
+    <p style="display: none;">Maximum number of products per page: <span id="nbrpage"></span></p>
+    <p></p>
+    <div class="pagination" id="dede">
+        <a href="#" id="after">&laquo;</a>
+        <a class="active" id="1" href="#">1</a>
+        <a href="#" id="before">&raquo;</a>
+    </div>
+    <div class="lists">
+        <table id="example" class="display">
+            <thead>
+                <tr>
+                    <th><a href="javascript:SortTable(0,'T');">Product Name</a></th>
+                    <th>Product Photo</th>
+                    <th><a href="javascript:SortTable(1,'N');">Price (€)</a></th>
+                    <th><a href="javascript:SortTable(2,'N');">Score</a></th>
+                    <th>Description</th>
+                </tr>
+            </thead>
+            <tbody id="items">
+            </tbody>
+        </table>
+    </div>
+</body>
+
+</html>

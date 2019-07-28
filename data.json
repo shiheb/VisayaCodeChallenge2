@@ -1,0 +1,186 @@
+[
+{
+    "results": [
+    {
+        "id": "1425",
+        "name": "Flowphant T DTT31",
+        "price": "\u20ac270.00",
+        "hideprice": null,
+        "description": "Flowphant T DTT31 is designed for the safe measurement, display and monitoring of relative mass flow rates of liquid media with practically no pressure loss. It can be selected between one or two switch outputs as well as one switch output and one standardized analog output for flow rates or temperature values. Typical applications are: Monitoring cooling water circulation processes or lubrication systems of pumps and heat exchangers or leak monitoring in process lines.",
+        "short_description": "Flow switch for monitoring flow rates and temperature",
+        "in_a_nutshell": ["Measuring range: 0.03 to 3 m\/s (0.1 to 9.84 ft\/s)", "Max. measured error: 2% - 10% (per measurement range)", "Max. process pressure: 120 bar (1.740 psi)"],
+        "brand": "Endress+Hauser",
+        "sku": "DTT31",
+        "attribute_set_id": "149",
+        "categories": [
+        {
+            "category_id": 2,
+            "is_virtual": "false"
+        },
+        {
+            "category_id": 51,
+            "is_parent": true,
+            "is_virtual": "false",
+            "name": "Flow"
+        },
+        {
+            "category_id": 78,
+            "is_parent": true,
+            "is_virtual": "false",
+            "name": "Thermal"
+        }],
+        "reviews": null,
+        "url": "https:\/\/visaya.solutions\/en\/product\/flowphant-t-dtt31",
+        "image": "https:\/\/media.visaya.solutions\/media\/catalog\/product\/cache\/df6c3ff6967905f88df6c8d782252dba\/d\/t\/dtt31.jpg",
+        "is_device": false,
+        "button_text": "Add to Cart"
+    },
+    {
+        "id": "1426",
+        "name": "Flowphant T DTT35 thermal flow switch  from Endress + Hauser",
+        "price": "\u20ac279.00",
+        "hideprice": null,
+        "description": "The flow switch\u00a0Flowphant T DTT35 from Endress + Hauser is designed for the safe monitoring and display of relative mass flow rates of liquid media in hygienic applications.\u00a0It can be selected between one or two switch outputs as well as one switch output and one standardized analog output for flow rates or temperature values. The insertion flow switch offers a\u00a0variety of hygienic process connections leads to a flexible use.",
+        "short_description": "Flow switch for safe monitoring of flow rates and temperature in hygienic processes",
+        "in_a_nutshell": ["Measuring range: 0.03 to 3 m\/s (0.1 to 9.84 ft\/s)", "Max. measured error 2% - 10% (per measurement range)", "Max. process pressure 120 bar (1.740 psi)"],
+        "brand": "Endress+Hauser",
+        "sku": "DTT35",
+        "attribute_set_id": "149",
+        "categories": [
+        {
+            "category_id": 2,
+            "is_virtual": "false"
+        },
+        {
+            "category_id": 51,
+            "is_parent": true,
+            "is_virtual": "false",
+            "name": "Flow"
+        },
+        {
+            "category_id": 78,
+            "is_parent": true,
+            "is_virtual": "false",
+            "name": "Thermal"
+        }],
+        "reviews": null,
+        "url": "https:\/\/visaya.solutions\/en\/product\/flowphant-t-dtt35",
+        "image": "https:\/\/media.visaya.solutions\/media\/catalog\/product\/cache\/df6c3ff6967905f88df6c8d782252dba\/d\/t\/dtt35.jpg",
+        "is_device": false,
+        "button_text": "Add to Cart"
+    },
+    {
+        "id": "59265",
+        "name": "Ultraflow U1000",
+        "price": "\u20ac1,916.66",
+        "hideprice": null,
+        "description": "The +GF+ U1000 is a clamp-on (portable) ultrasonic flow meter with a display, based on the time-of-flight measuring principle. It can either be used as a stand-alone flow meter or as an integral part of a control loop.\u00a0The U1000 is very easy to install: clamp it on to the pipe, connect it to power and enter the pipe diameter. The clamp-on design allows the installation in running systems without opening the pipe, providing minimum downtime and maximum availability.",
+        "short_description": "Clamp-on (portable) ultrasonic flow meter with display",
+        "in_a_nutshell": ["Integrated display and programming buttons", "Large, easy to read graphic display with backlighting", "Applicable for steel and plastic pipes for the size: 1 - 4.5 inch \/ 25 - 115 mm"],
+        "brand": "GF Piping Systems",
+        "sku": "U1000",
+        "attribute_set_id": "158",
+        "categories": [
+        {
+            "category_id": 2,
+            "is_virtual": "false"
+        },
+        {
+            "category_id": 51,
+            "is_parent": true,
+            "is_virtual": "false",
+            "name": "Flow"
+        },
+        {
+            "category_id": 55,
+            "is_parent": true,
+            "is_virtual": "false",
+            "name": "Homepage"
+        },
+        {
+            "category_id": 82,
+            "is_parent": true,
+            "is_virtual": "false",
+            "name": "Ultrasonic"
+        }],
+        "reviews": null,
+        "url": "https:\/\/visaya.solutions\/en\/product\/type-u1000-compact-clamp-on-flow-sensor",
+        "image": "https:\/\/media.visaya.solutions\/media\/catalog\/product\/cache\/df6c3ff6967905f88df6c8d782252dba\/d\/e\/design1.jpg",
+        "is_device": false,
+        "button_text": "Add to Cart"
+    },
+    {
+        "id": "77443",
+        "name": "Proline Promass E 300",
+        "price": "\u20ac7,536.50",
+        "hideprice": "1",
+        "description": "The robust Proline Promass E 300 Coriolis flow meter from Endress+Hauser has a long-standing reputation as a cost-efficient solution accurately measuring liquids and gases in a wide range of standard applications in various industries. With its compact transmitter Promass E 300 offers high flexibility in terms of operation and system integration: access from one side, remote display, improved connectivity options. Heartbeat Technology ensures compliance and process safety at all times.",
+        "short_description": "Flow meter with robust and easily accessible transmitter for standard applications",
+        "in_a_nutshell": ["Medium temperature: up to 150 \u00b0C (302 \u00b0F)", "Process pressure: up to 100 bar (1450 psi)", "Measuring range: 0 to 180 000 kg\/h (0 to 6615 lb\/min) "],
+        "brand": "Endress+Hauser",
+        "sku": "proline-promass-e-300",
+        "attribute_set_id": "168",
+        "categories": [
+        {
+            "category_id": 2,
+            "is_virtual": "false"
+        },
+        {
+            "category_id": 51,
+            "is_parent": true,
+            "is_virtual": "false",
+            "name": "Flow"
+        },
+        {
+            "category_id": 107,
+            "is_parent": true,
+            "is_virtual": "false",
+            "name": "Coriolis"
+        }],
+        "reviews": null,
+        "url": "https:\/\/visaya.solutions\/en\/product\/proline-promass-e-300",
+        "image": "https:\/\/media.visaya.solutions\/media\/catalog\/product\/cache\/df6c3ff6967905f88df6c8d782252dba\/P\/r\/Promass_E_300_8E3B_CH_Horiz02___PP_01.jpg",
+        "is_device": false,
+        "button_text": "Request a Quote"
+    },
+    {
+        "id": "86002",
+        "name": "Proline Promag W 400",
+        "price": "\u20ac2,325.85",
+        "hideprice": "1",
+        "description": "As a specialist with corrosion protection, the Promag W 400 by Endress+Hauser is suitable for every application in the water and wastewater industry as well as for custody transfer. It is the ideal solution for direct underground installation or permanent underwater use. Heartbeat Technology ensures compliance and process safety at all times. It measures a variety of variables including volume flow, conductivity and mass flow.\u00a0",
+        "short_description": "Electromagnetic flowmeter for custody transfer and wastewater applications",
+        "in_a_nutshell": ["Nominal diameter range: DN 25 to 2000 (1 to 78\\\")", "Measuring range: 9 dm\u00b3\/min to 110 000 m\u00b3\/h ", "Integrated Heartbeat Technology and WLAN access"],
+        "brand": "Endress+Hauser",
+        "sku": "Proline Promag W 400",
+        "attribute_set_id": "116",
+        "categories": [
+        {
+            "category_id": 2,
+            "is_virtual": "false"
+        },
+        {
+            "category_id": 51,
+            "is_parent": true,
+            "is_virtual": "false",
+            "name": "Flow"
+        },
+        {
+            "category_id": 52,
+            "is_parent": true,
+            "is_virtual": "false",
+            "name": "Electromagnetic"
+        }],
+        "reviews": null,
+        "url": "https:\/\/visaya.solutions\/en\/product\/proline-promag-w-400",
+        "image": "https:\/\/media.visaya.solutions\/media\/catalog\/product\/cache\/df6c3ff6967905f88df6c8d782252dba\/p\/r\/promag_w_400_5w4c_front_horiz_displ_komp_pgp___pp_01.jpg",
+        "is_device": false,
+        "button_text": "Request a Quote"
+    }],
+    "paging": 21,
+    "price_filter":
+    {
+        "max": 7536.5,
+        "min": 0
+    }
+}]
